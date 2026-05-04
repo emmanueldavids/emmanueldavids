@@ -1,4 +1,4 @@
-## 👋 Hi, I'm EMMANUEL DAVIDS
+## 👋 Hi, I'm EMMANUEL DAVIDS 
  I’m a backend developer focused on building scalable, secure, and efficient systems. I enjoy turning ideas into real-world applications and solving complex problems through code.<br><br>
  
  ### 🚀About Me
